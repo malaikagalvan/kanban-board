@@ -1,1 +1,1 @@
-This is a Kanban Board Project for MyCritters onboarding.
+This is a Kanban Board Project created for MyCritters onboarding.
